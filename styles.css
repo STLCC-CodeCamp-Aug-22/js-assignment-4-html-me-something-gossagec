@@ -4,10 +4,10 @@ body {
     display: block;
 }
 
-h1#mainHeader {
+#mainHeader {
     color: red;
 }
 
-p#testP.funParagraph {
+.funParagraph {
     color: green;
 }
